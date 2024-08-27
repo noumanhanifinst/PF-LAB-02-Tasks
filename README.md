@@ -7,3 +7,5 @@ PF Lab 02 Tasks
 ```
 ghggd
 ```
+# Image:
+![Cat](https://myoctocat.com/assets/images/base-octocat.svg)
